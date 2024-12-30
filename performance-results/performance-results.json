@@ -1,0 +1,1 @@
+[{"name":"GH-startup","brName":"general","avgTime":204,"sem":47,"repeats":11,"minValue":118,"maxValue":653,"earliestTime":"12/30/2024, 2:53:26 PM","latestTime":"12/30/2024, 2:53:28 PM"},{"name":"SF-startup","brName":"general","avgTime":146,"sem":0,"repeats":1,"minValue":146,"maxValue":146,"earliestTime":"12/30/2024, 2:53:29 PM","latestTime":"12/30/2024, 2:53:29 PM"}]
